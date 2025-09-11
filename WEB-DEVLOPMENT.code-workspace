@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "WEB-DEVLOPMENT",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"DELETION.C": "cpp"
+		}
+	}
+}
